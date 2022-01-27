@@ -17,6 +17,7 @@ system on “online voting system” for was a matter of essence.
 Software Requirements:
 
 •	A Running Device which can connect to webpages
+
 •	XAMMP Server
 
 After uploading the project on online Server:
